@@ -1,0 +1,4 @@
+package com.example.exerciseone
+
+val FIRST_PLAYER_NAME= "FIRST_PLAYER_NAME"
+val SECOND_PLAYER_NAME= "SECOND_PLAYER_NAME"
